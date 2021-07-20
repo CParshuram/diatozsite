@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/diatozsite/static/css/main.c6bf7bfb.chunk.css",
+    "main.js": "/diatozsite/static/js/main.6659a45c.chunk.js",
+    "main.js.map": "/diatozsite/static/js/main.6659a45c.chunk.js.map",
+    "runtime-main.js": "/diatozsite/static/js/runtime-main.ac508fce.js",
+    "runtime-main.js.map": "/diatozsite/static/js/runtime-main.ac508fce.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/diatozsite/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.a3742804.chunk.js": "/diatozsite/static/js/2.a3742804.chunk.js",
+    "static/js/2.a3742804.chunk.js.map": "/diatozsite/static/js/2.a3742804.chunk.js.map",
+    "index.html": "/diatozsite/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/diatozsite/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.c6bf7bfb.chunk.css.map": "/diatozsite/static/css/main.c6bf7bfb.chunk.css.map",
+    "static/js/2.a3742804.chunk.js.LICENSE.txt": "/diatozsite/static/js/2.a3742804.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac508fce.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.a3742804.chunk.js",
+    "static/css/main.c6bf7bfb.chunk.css",
+    "static/js/main.6659a45c.chunk.js"
+  ]
+}
